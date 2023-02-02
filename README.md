@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![MignonY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MignonY&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignony)](https://solved.ac/mignony)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonY&layout=Demo&theme=dracula)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FMignonY&count_bg=%2335FFD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **MignonY/MignonY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
