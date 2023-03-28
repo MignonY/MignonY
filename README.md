@@ -4,9 +4,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mignony)](https://solved.ac/mignony)
 
-![MignonY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MignonY&show_icons=true&theme=tokyonight)
+![MignonY's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MignonY&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignony)](https://solved.ac/mignony)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonY&layout=Demo&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MignonY&layout=Demo&theme=dracula)
 
 <!--
 **MignonY/MignonY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
