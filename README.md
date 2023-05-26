@@ -1,14 +1,13 @@
 ## ✨Hello✨
 🌱 I’m currently learning Game Dev🌱<br>
-![MignonY's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MignonY&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MignonY&layout=Demo&theme=dracula)![MignonY's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MignonY&show_icons=true&theme=tokyonight)
 <br/>
 
 ### ✔️Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mignony)](https://solved.ac/mignony)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignony)](https://solved.ac/mignony)<br>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MignonY&layout=Demo&theme=dracula)
-<br/>
+
 
 ### 🔭GameDev
 <img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"><img src="https://img.shields.io/badge/unity-2C4F7C?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
