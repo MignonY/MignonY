@@ -5,8 +5,7 @@
 
 ### ✔️Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mignony)](https://solved.ac/mignony)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignony)](https://solved.ac/mignony)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MignonY&layout=compact&theme=dracula)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignony)](https://solved.ac/mignony)
 
 ### 🔭GameDev
 <img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"><img src="https://img.shields.io/badge/unity-2C4F7C?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
