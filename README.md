@@ -7,8 +7,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mignony)](https://solved.ac/mignony)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignony)](https://solved.ac/mignony) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonY&langs_count=8&layout=compact&theme=dracula&hide=html,css)](https://github.com/MignonY/github-readme-stats)
 
-### 🔭GameDev
-<img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### 🔭Graphics & GameDev
+<img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ### ⚡Graphics
 <img src="https://img.shields.io/badge/MAYA-00B388?style=for-the-badge&logo=autodesk&logoColor=white"><img src="https://img.shields.io/badge/3dsMax-66CCFF?style=for-the-badge&logo=autodesk&logoColor=white"><br>
